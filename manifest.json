@@ -27,7 +27,7 @@
   "author": "Sanjay",   
   "browser_specific_settings": {
     "gecko": {
-      "id": "my-companion@developer.com"
+      "id": "my-companion1@developer.com"
     }
   },
   "short_name": "Companion AI",
