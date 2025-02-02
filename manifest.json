@@ -17,12 +17,8 @@
   ],
 
   "permissions": [
-    "activeTab",
-    "scripting",
-    "storage",
-    "tabs"
+    "storage"
   ],
-
   "icons": {
     "48": "logo.png",
     "128": "logo.png"
